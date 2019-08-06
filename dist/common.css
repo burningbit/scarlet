@@ -1,0 +1,72 @@
+.scarlet-login-view {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  min-height: 100vh; }
+
+.scarlet-login-view-form {
+  margin-top: 10px;
+  display: inline-block;
+  min-width: 240px; }
+
+.scarlet-login-view-textbox-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 14px;
+  margin: 0.875rem; }
+
+.scarlet-login-view-textbox-label {
+  background-color: #363b41;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  padding-left: 20px;
+  padding-left: 1.25rem;
+  padding-right: 20px;
+  padding-right: 1.25rem;
+  padding: 16px;
+  padding: 1rem; }
+
+.scarlet-login-view-textbox {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background-color: #3b4148;
+  border-radius: 0.25rem;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  padding: 16px;
+  padding: 1rem;
+  border: 0;
+  width: 100%; }
+
+body {
+  background-color: #eee;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: 400;
+  height: 100%;
+  line-height: 1.5;
+  margin: 0;
+  min-height: 100vh; }
+
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 100%;
+  height: 100%; }
+
+* {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit; }
+
+.scarlet-icon-20 {
+  display: inline-block;
+  fill: #606468;
+  font-size: 16px;
+  font-size: 1rem;
+  height: 1em;
+  vertical-align: middle;
+  width: 1em; }
